@@ -1,0 +1,4 @@
+Author: Evan Zeglinski-Spinney
+Date: September 13th, 2021
+
+This is just a simple text file.
